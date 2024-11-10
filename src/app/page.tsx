@@ -23,7 +23,7 @@ const Home = () => {
             </span>
           </h3>
           <p className="text-base md:text-[18px] w-full md:w-[90%] lg:w-[80%] mx-auto md:mx-0">
-              I'm a student in the Governor's Sindh IT Initiative (GIAIC), passionate about IT, AI, and the Metaverse. As the Vice Principal at a private sector school, I work on enhancing learning through innovative Learning Management Systems (LMS) and apps, integrating cutting-edge technologies to improve education.
+              I am a student of GIAIC, passionate about IT, AI, and the Metaverse. As the Vice Principal at a private sector school, I work on enhancing learning through innovative Learning Management Systems (LMS) and apps, integrating cutting-edge technologies to improve education.
                 Currently, I&apos;m deepening my expertise in Next.js,
             building a solid foundation for my journey in full-stack development
             and emerging technologies.
